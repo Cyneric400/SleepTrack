@@ -1,0 +1,12 @@
+Git:
+- https://improveandrepeat.com/2022/10/little-git-tricks-fix-a-dubious-ownership-of-a-repository/
+
+Linux:
+
+HTML: 
+
+JavaScript:
+
+PHP:
+
+Interlocking Systems:
