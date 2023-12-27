@@ -1,0 +1,27 @@
+<!--https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template-->
+<div id="sleep_form">
+	<h2>Add Sleep</h2>
+	<!--Adding in a form here causes the page to reload and wipe-->
+	<!--any logs that were added simply through event listeners.-->
+		<label for="date-input">Enter the date (the night of): </label>
+		<input type="date" name="date-input" id="date-input">
+		<br>
+		<label for="bed-input">Enter the time you went to bed: </label>
+		<input type="time" name="bed-input" id="bed-input">
+		<br>
+		<label for="sleep-input">Enter the time you went to sleep: </label>
+		<input type="time" name="sleep-input" id="sleep-input">
+		<br>
+		<input type="submit" id="form-submit" id="sleep-input">
+
+</div>
+
+<div id="sleep-log">
+	<h2>Sleep Log</h2>
+</div>
+
+<template id="log-item">
+	<h3>Sleep Log <span class="date-log"></span></h3>
+	<p>Went to bed: <span class="bedtime"></span></p>
+	<p>Went to sleep: <span class="sleeptime"></span></p>
+</template>
