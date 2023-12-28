@@ -2,11 +2,22 @@ Git:
 - https://improveandrepeat.com/2022/10/little-git-tricks-fix-a-dubious-ownership-of-a-repository/
 
 Linux:
+https://superuser.com/questions/635289/what-is-the-recommended-directory-to-store-website-content
+
 
 HTML: 
+MDN Web Docs - template tag
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form#specifications
 
 JavaScript:
+MDN Web Docs - template cloning
+
+CSS:
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
 
 PHP:
+https://www.w3schools.com/PHP/php_superglobals_server.asp
+https://www.w3schools.com/PHP/php_form_validation.asp (also Form Handling)
 
 Interlocking Systems:
+https://stackoverflow.com/questions/50662906/my-css-file-not-working-in-my-php-file
